@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16618) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon_arrow" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)" stroke-width="2" stroke="#8DA8B8">
+            <g id="Choose-Template" sketch:type="MSShapeGroup">
+                <g id="02-Wizard/Step-1/Template-select-1920">
+                    <g id="Templates">
+                        <g id="Temp_new-2">
+                            <g id="Browser">
+                                <g id="Hover">
+                                    <g id="Choose">
+                                        <g id="Icon_arrow">
+                                            <path d="M48,24 C48,10.745166 37.254834,0 24,0 C10.745166,0 0,10.745166 0,24 C0,37.254834 10.745166,48 24,48 C37.254834,48 48,37.254834 48,24 Z" id="Oval-168"></path>
+                                            <path d="M26,31 L33,24 L26,17" id="Path-333"></path>
+                                            <path d="M33,24.0039062 L15,24.0039062" id="Path-334"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
